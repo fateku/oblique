@@ -1,5 +1,3 @@
-package star;
-
 public class Oblique {
 	public static void main(String[] args) {
 		int grape = 5;//層式
